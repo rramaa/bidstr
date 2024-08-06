@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          A https://nostr.com based platform for bidding coming soon
+          A <a href="https://nostr.com">Nostr</a> based platform for bidding coming soon
         </p>
       </header>
     </div>
