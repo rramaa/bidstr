@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          A completely decentralised platform for bidding coming soon
+          A https://nostr.com based platform for bidding coming soon
         </p>
       </header>
     </div>
